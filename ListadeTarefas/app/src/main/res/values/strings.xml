@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="title_form">Nova Tarefa</string>
+    <string name="title_form_edition">Editar Tarefa</string>
+</resources>
